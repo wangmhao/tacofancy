@@ -5,3 +5,5 @@
 今天早上我要把Github的使用玩转，这样以后就不用总是用石墨来同步了。
 
 或者，可以考虑google docs
+
+用本地的github desktop来试一下
